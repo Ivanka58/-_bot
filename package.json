@@ -1,0 +1,15 @@
+{
+  "name": "напоминалка",
+  "version": "1.0.0",
+  "description": "Telegram bot for InvaCoin",
+  "main": "напоминалка.js",
+  "scripts": {
+    "start": "node напоминалка.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0", 
+    "node-schedule": "^2.1.1"
+  },
+  "author": "Ivanka58",
+  "license": "MIT"
+}
